@@ -1,0 +1,8 @@
+
+    Program Name: Recipe Display Application
+    Author: Nancy Dames
+    Date: November 2 2016
+    Filename: ExtraCredit.txt
+    
+    In this version of the Recipe Display application, the headings change colors between yellow and orange. These colors were chosen because they are reminiscent of the dish being described. There is also code to cause the information under the headings to quickly slide either up or down depending on where it is currently.
+    
